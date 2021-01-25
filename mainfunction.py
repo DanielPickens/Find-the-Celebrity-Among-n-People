@@ -11,7 +11,7 @@ def eliminate_non_celebrities(matrix):
  
  
 def check_if_celebrity(possible_celeb, matrix):  
-    ### Here, I am chossing to Take an n x n matrix that has filled m[i][j] = where True is if i knows  j and return
+    ### Here, I am choosing to Take an n x n matrix that has filled m[i][j] = where True is if i knows j and that will return
     ###True if possible_celeb is actually a celebrity ######
     
     for i in range(n):
